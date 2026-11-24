@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.kessenichcarpentry.com/sitemap.xml
